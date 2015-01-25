@@ -1,4 +1,4 @@
 Google Host
 ==========
 
-国内你懂的~~~
+[http://serve.netsh.org/pub/gethosts.php](http://serve.netsh.org/pub/gethosts.php)
